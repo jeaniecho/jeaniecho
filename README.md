@@ -68,17 +68,42 @@
 
 ## What I work with
 
-**Apple platforms**  
-Swift · SwiftUI · AppKit · SwiftData · CloudKit
+<p>
+  <img align="left" width="20" height="37" src="assets/skills/apple-platforms.svg" alt="" />
+  <strong>Apple platforms</strong><br />
+  Swift · SwiftUI · AppKit · SwiftData · CloudKit
+</p>
 
-**Cross-platform & web**  
-Flutter · Dart · Next.js
+<br clear="left" />
 
-**Backend & infrastructure**  
-Firebase · Node.js · Cloudflare Workers · OpenAI API
+<p>
+  <img align="left" width="20" height="37" src="assets/skills/cross-platform.svg" alt="" />
+  <strong>Cross-platform &amp; web</strong><br />
+  Flutter · Dart · Next.js
+</p>
 
-**Product & growth**  
-StoreKit 2 · RevenueCat · Stripe · GA4 · BigQuery · Experimentation
+<br clear="left" />
 
-**Engineering workflow**  
-Python · AI-assisted development · Automated testing · Iterative delivery
+<p>
+  <img align="left" width="20" height="37" src="assets/skills/infrastructure.svg" alt="" />
+  <strong>Backend &amp; infrastructure</strong><br />
+  Firebase · Node.js · Cloudflare Workers · OpenAI API
+</p>
+
+<br clear="left" />
+
+<p>
+  <img align="left" width="20" height="37" src="assets/skills/product-growth.svg" alt="" />
+  <strong>Product &amp; growth</strong><br />
+  StoreKit 2 · RevenueCat · Stripe · GA4 · BigQuery · Experimentation
+</p>
+
+<br clear="left" />
+
+<p>
+  <img align="left" width="20" height="37" src="assets/skills/workflow.svg" alt="" />
+  <strong>Engineering workflow</strong><br />
+  Python · AI-assisted development · Automated testing · Iterative delivery
+</p>
+
+<br clear="left" />
