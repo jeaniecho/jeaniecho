@@ -17,7 +17,7 @@
 <br clear="left" />
 
 <p>
-  <a href="https://github.com/jeaniecho/waggle"><img align="left" width="80" src="assets/waggle-bone.png" alt="Waggle app icon" /></a>
+  <a href="https://github.com/jeaniecho/waggle"><img align="left" width="80" src="assets/waggle-bone-trimmed.png" alt="Waggle app icon" /></a>
   <strong><a href="https://github.com/jeaniecho/waggle">Waggle</a></strong><br />
   A tiny, local-first macOS desktop companion for focus and breaks, built around native window management, event-driven animations, and privacy-conscious input handling.<br />
   <sub>SwiftUI · AppKit · macOS · <a href="https://github.com/jeaniecho/waggle">View source</a></sub>
