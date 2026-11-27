@@ -26,8 +26,8 @@
 <br clear="left" />
 
 <p>
-  <a href="https://apps.apple.com/kr/app/id6474457167"><img align="left" width="80" src="assets/wooparoo-rounded.png" alt="Wooparoo Guide app icon" /></a>
-  <strong><a href="https://apps.apple.com/kr/app/id6474457167">Wooparoo Guide</a></strong><br />
+  <a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167"><img align="left" width="80" src="assets/wooparoo-rounded.png" alt="Wooparoo Guide app icon" /></a>
+  <strong><a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167">Wooparoo Guide</a></strong><br />
   An independently built mobile reference app for a collection-based game.<br />
   <strong>25,000+</strong> downloads · <strong>3,000</strong> peak DAU · <strong>#4</strong> in the App Store Reference category
 </p>
