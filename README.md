@@ -11,7 +11,8 @@
   <a href="https://organizly.org/"><img align="left" width="80" src="assets/organizly-rounded.png" alt="Organizly app icon" /></a>
   <strong><a href="https://organizly.org/">Organizly</a></strong><br />
   A personal organizer for tasks, projects, and notes across iOS, macOS, and watchOS. Independently designed, developed, and shipped without a custom backend or account system.<br />
-  <sub>SwiftUI · SwiftData · CloudKit · StoreKit 2</sub>
+  <sub>SwiftUI · SwiftData · CloudKit · StoreKit 2</sub><br />
+  <sub><a href="https://organizly.org/">Website</a> · <a href="https://apps.apple.com/kr/app/organizly-task-notes/id6469131765">App Store</a></sub>
 </p>
 
 <br clear="left" />
@@ -39,7 +40,8 @@
   <a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167"><img align="left" width="80" src="assets/wooparoo-rounded.png" alt="Wooparoo Guide app icon" /></a>
   <strong><a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167">Wooparoo Guide</a></strong><br />
   An independently built mobile reference app for a collection-based game.<br />
-  <strong>25,000+</strong> downloads · <strong>3,000</strong> peak DAU · <strong>#4</strong> in the App Store Reference category
+  <strong>25,000+</strong> downloads · <strong>3,000</strong> peak DAU · <strong>#4</strong> in the App Store Reference category<br />
+  <sub><a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167">App Store</a> · <a href="https://play.google.com/store/apps/details?id=dev.jeanie.wooparoo">Google Play</a></sub>
 </p>
 
 <br clear="left" />
