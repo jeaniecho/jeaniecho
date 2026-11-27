@@ -8,7 +8,7 @@ My work spans mobile development, native Apple experiences, product experimentat
 
 ## Selected projects
 
-### [Organizly](https://apps.apple.com/us/app/organizly-task-notes/id6469131765)
+### [Organizly](https://organizly.org/)
 
 A native personal organizer for tasks, projects, and notes across iOS, macOS, and watchOS.
 
