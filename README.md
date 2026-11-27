@@ -17,6 +17,16 @@
 <br clear="left" />
 
 <p>
+  <a href="https://github.com/jeaniecho/rehearse"><img align="left" width="80" src="assets/rehearse-rounded.png" alt="Rehearse app icon" /></a>
+  <strong><a href="https://github.com/jeaniecho/rehearse">Rehearse</a></strong><br />
+  An AI-powered conversation coach for difficult workplace conversations, with interactive simulations, voice practice, and personalized feedback. Built with a resilient offline fallback.<br />
+  <sub>Flutter · Dart · Node.js · Cloudflare Workers · OpenAI · RevenueCat</sub><br />
+  <sub><a href="https://github.com/jeaniecho/rehearse">View source</a> · <a href="https://apps.apple.com/us/app/rehearse-conversation-coach/id6808087516">App Store</a> · <a href="https://play.google.com/store/apps/details?id=app.rehearse.rehearse">Google Play</a></sub>
+</p>
+
+<br clear="left" />
+
+<p>
   <a href="https://github.com/jeaniecho/waggle"><img align="left" width="80" src="assets/waggle-bone-trimmed.png" alt="Waggle app icon" /></a>
   <strong><a href="https://github.com/jeaniecho/waggle">Waggle</a></strong><br />
   A tiny, local-first macOS desktop companion for focus and breaks, built around native window management, event-driven animations, and privacy-conscious input handling.<br />
