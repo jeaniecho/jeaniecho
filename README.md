@@ -5,7 +5,7 @@
   <p>Seoul · <a href="https://jeanie.dev">Website</a></p>
 </div>
 
-## Selected projects
+## Things I've built
 
 <p>
   <a href="https://organizly.org/"><img align="left" width="80" src="assets/organizly-rounded.png" alt="Organizly app icon" /></a>
