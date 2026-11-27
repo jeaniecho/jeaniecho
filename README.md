@@ -28,10 +28,11 @@
 <br clear="left" />
 
 <p>
-  <a href="https://github.com/jeaniecho/waggle"><img align="left" width="80" src="assets/waggle-bone-trimmed.png" alt="Waggle app icon" /></a>
-  <strong><a href="https://github.com/jeaniecho/waggle">Waggle</a></strong><br />
-  A tiny, local-first macOS desktop companion for focus and breaks, built around native window management, event-driven animations, and privacy-conscious input handling.<br />
-  <sub>SwiftUI · AppKit · macOS · <a href="https://github.com/jeaniecho/waggle">View source</a></sub>
+  <a href="https://apps.apple.com/gb/app/daymark-private-daily-log/id6810120421"><img align="left" width="80" src="assets/daymark-rounded.png" alt="Daymark app icon" /></a>
+  <strong><a href="https://apps.apple.com/gb/app/daymark-private-daily-log/id6810120421">Daymark</a></strong><br />
+  A private, offline calendar for recording personal events with customizable entry types, biometric app lock, and optional iCloud sync. No accounts, tracking, or third-party dependencies.<br />
+  <sub>SwiftUI · SwiftData · CloudKit · Swift Charts · LocalAuthentication</sub><br />
+  <sub><a href="https://apps.apple.com/gb/app/daymark-private-daily-log/id6810120421">App Store</a></sub>
 </p>
 
 <br clear="left" />
@@ -52,6 +53,15 @@
   An unofficial Lost Ark companion for character lookups, roster task management, market information, and auction calculations using the official game API.<br />
   <sub>Flutter · Dart · Firebase · Hive · Lost Ark Open API</sub><br />
   <sub><a href="https://apps.apple.com/kr/app/%EC%95%8C%EB%A1%9C%EC%95%84-%EC%9B%90%EC%A0%95%EB%8C%80-%EC%88%99%EC%A0%9C-%EA%B2%BD%EB%A7%A4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6752291694">App Store</a> · <a href="https://play.google.com/store/apps/details?id=dev.jeanie.aloa">Google Play</a></sub>
+</p>
+
+<br clear="left" />
+
+<p>
+  <a href="https://github.com/jeaniecho/waggle"><img align="left" width="80" src="assets/waggle-bone-trimmed.png" alt="Waggle app icon" /></a>
+  <strong><a href="https://github.com/jeaniecho/waggle">Waggle</a></strong><br />
+  A tiny, local-first macOS desktop companion for focus and breaks, built around native window management, event-driven animations, and privacy-conscious input handling.<br />
+  <sub>SwiftUI · AppKit · macOS · <a href="https://github.com/jeaniecho/waggle">View source</a></sub>
 </p>
 
 <br clear="left" />
