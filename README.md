@@ -1,42 +1,54 @@
+<div align="center">
+
 # I like making things.
 
-I'm Jeanie, a product engineer based in Seoul. I enjoy turning ideas into thoughtful, functional products and taking them from concept to release.
+Product engineer in Seoul · From idea to release
 
-My work spans mobile development, native Apple experiences, product experimentation, and monetization.
+[Website](https://jeanie.dev) · [Selected projects](#selected-projects)
 
-[jeanie.dev](https://jeanie.dev)
+</div>
+
+I’m Jeanie. I design, build, and ship thoughtful digital products, with a focus on mobile and native Apple experiences.
 
 ## Selected projects
 
 ### [Organizly](https://organizly.org/)
 
-A native personal organizer for tasks, projects, and notes across iOS, macOS, and watchOS.
+<a href="https://organizly.org/">
+  <img src="https://organizly.org/press/organizly-social-header.png" alt="Organizly product artwork" width="100%" />
+</a>
 
-Independently designed, developed, and shipped. Built with SwiftUI, SwiftData, CloudKit, and StoreKit 2, without a custom backend or account system.
+A personal organizer for tasks, projects, and notes across iOS, macOS, and watchOS. I independently designed, developed, and shipped it without a custom backend or account system.
 
-**SwiftUI · SwiftData · CloudKit · StoreKit 2**
+`SwiftUI` · `SwiftData` · `CloudKit` · `StoreKit 2`
+
+---
 
 ### [Waggle](https://github.com/jeaniecho/waggle)
 
-A tiny desktop companion for focus, breaks, and the moments in between.
+<a href="https://github.com/jeaniecho/waggle">
+  <img src="https://raw.githubusercontent.com/jeaniecho/waggle/main/docs/assets/waggle-cover.png" alt="Waggle, a small desktop dog, on a dark background" width="100%" />
+</a>
 
-A local-first macOS app exploring native window management, event-driven animations, and privacy-conscious input handling.
+A tiny desktop companion for focus, breaks, and the moments in between. This local-first macOS project explores native window management, event-driven animations, and privacy-conscious input handling.
 
-**SwiftUI · AppKit · macOS**
+`SwiftUI` · `AppKit` · `macOS` · [View source](https://github.com/jeaniecho/waggle)
+
+---
 
 ### Wooparoo Guide
 
 An independently built mobile reference app for a collection-based game.
 
-**25,000+ downloads · 3,000 peak DAU · #4 in the App Store Reference category**
+| 25,000+ | 3,000 | #4 |
+|:---:|:---:|:---:|
+| Downloads | Peak daily active users | App Store Reference category |
 
 ## What I work with
 
-**Development**  
-Swift, SwiftUI, AppKit, Flutter, Dart, Python, Next.js
+| | |
+|:--|:--|
+| **Development** | Swift, SwiftUI, AppKit, Flutter, Dart, Python, Next.js |
+| **Infrastructure & product** | CloudKit, Firebase, Stripe, RevenueCat, GA4, BigQuery |
+| **Workflow** | AI-assisted development, product experimentation, testing, and iterative delivery |
 
-**Infrastructure & Product**  
-CloudKit, Firebase, Stripe, RevenueCat, GA4, BigQuery
-
-**Workflow**  
-AI-assisted development, product experimentation, testing, and iterative delivery.
