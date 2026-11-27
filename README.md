@@ -1,9 +1,11 @@
-### Hi, I'm Jeanie.
-
-**Product Engineer · Independent App Developer**  
-I design, build, and ship thoughtful apps for everyday life.
-
-<sub>Seoul · <a href="https://jeanie.dev">jeanie.dev</a></sub>
+<div align="center">
+  <h1>Hi, I'm Jeanie.</h1>
+  <p>
+    <strong>Product Engineer · Independent App Developer</strong><br />
+    I design, build, and ship apps that are useful, a little playful, and thoughtfully crafted.
+  </p>
+  <p><sub>Based in Seoul · <a href="https://jeanie.dev">jeanie.dev</a></sub></p>
+</div>
 
 ## Things I've built
 
