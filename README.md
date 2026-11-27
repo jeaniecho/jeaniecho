@@ -1,16 +1,42 @@
-## Hi there 👋
+# I like making things.
 
-<!--
-**jeaniecho/jeaniecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeanie, a product engineer based in Seoul. I enjoy turning ideas into thoughtful, functional products and taking them from concept to release.
 
-Here are some ideas to get you started:
+My work spans mobile development, native Apple experiences, product experimentation, and monetization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[jeanie.dev](https://jeanie.dev)
+
+## Selected projects
+
+### [Organizly](https://apps.apple.com/us/app/organizly-task-notes/id6469131765)
+
+A native personal organizer for tasks, projects, and notes across iOS, macOS, and watchOS.
+
+Independently designed, developed, and shipped. Built with SwiftUI, SwiftData, CloudKit, and StoreKit 2, without a custom backend or account system.
+
+**SwiftUI · SwiftData · CloudKit · StoreKit 2**
+
+### [Waggle](https://github.com/jeaniecho/waggle)
+
+A tiny desktop companion for focus, breaks, and the moments in between.
+
+A local-first macOS app exploring native window management, event-driven animations, and privacy-conscious input handling.
+
+**SwiftUI · AppKit · macOS**
+
+### Wooparoo Guide
+
+An independently built mobile reference app for a collection-based game.
+
+**25,000+ downloads · 3,000 peak DAU · #4 in the App Store Reference category**
+
+## What I work with
+
+**Development**  
+Swift, SwiftUI, AppKit, Flutter, Dart, Python, Next.js
+
+**Infrastructure & Product**  
+CloudKit, Firebase, Stripe, RevenueCat, GA4, BigQuery
+
+**Workflow**  
+AI-assisted development, product experimentation, testing, and iterative delivery.
