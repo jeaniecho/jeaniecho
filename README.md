@@ -68,8 +68,17 @@
 
 ## What I work with
 
-**Native development** · Swift, SwiftUI, AppKit  
-**Cross-platform & web** · Flutter, Dart, Next.js  
-**Infrastructure** · CloudKit, Firebase  
-**Product engineering** · Stripe, RevenueCat, GA4, BigQuery, experimentation  
-**Workflow & tooling** · Python, AI-assisted development, testing, iterative delivery
+**Apple platforms**  
+Swift · SwiftUI · AppKit · SwiftData · CloudKit
+
+**Cross-platform & web**  
+Flutter · Dart · Next.js
+
+**Backend & infrastructure**  
+Firebase · Node.js · Cloudflare Workers · OpenAI API
+
+**Product & growth**  
+StoreKit 2 · RevenueCat · Stripe · GA4 · BigQuery · Experimentation
+
+**Engineering workflow**  
+Python · AI-assisted development · Automated testing · Iterative delivery
