@@ -1,11 +1,7 @@
 <div align="center">
-
-# I like making things.
-
-Product engineer in Seoul · From idea to release
-
-[Website](https://jeanie.dev) · [Selected projects](#selected-projects)
-
+  <h1>I like making things.</h1>
+  <p>Product engineer in Seoul · From idea to release</p>
+  <p><a href="https://jeanie.dev">Website</a> · <a href="#selected-projects">Selected projects</a></p>
 </div>
 
 I’m Jeanie. I design, build, and ship thoughtful digital products, with a focus on mobile and native Apple experiences.
