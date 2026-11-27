@@ -31,7 +31,8 @@
   <a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167"><img align="left" width="80" src="assets/wooparoo-rounded.png" alt="Wooparoo Guide app icon" /></a>
   <strong><a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167">Wooparoo Guide</a></strong><br />
   An independently built mobile reference app for a collection-based game.<br />
-  <strong>25,000+</strong> downloads · <strong>3,000</strong> peak DAU · <strong>#4</strong> in the App Store Reference category<br />
+  <strong>25,000+</strong> downloads · <strong>3,000</strong> peak DAU · <strong>#4</strong> in the App Store Reference category<br clear="left" />
+  <sub>Flutter · Dart · SQLite · PostHog · Google AdMob</sub><br />
   <sub><a href="https://apps.apple.com/kr/app/%EC%9A%B0%ED%8C%8C%EB%A3%A8-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/id6474457167">App Store</a> · <a href="https://play.google.com/store/apps/details?id=dev.jeanie.wooparoo">Google Play</a></sub>
 </p>
 
@@ -74,15 +75,11 @@
   Swift · SwiftUI · AppKit · SwiftData · CloudKit
 </p>
 
-<br clear="left" />
-
 <p>
   <img align="left" width="20" height="37" src="assets/skills/cross-platform.svg" alt="" />
   <strong>Cross-platform &amp; web</strong><br />
   Flutter · Dart · Next.js
 </p>
-
-<br clear="left" />
 
 <p>
   <img align="left" width="20" height="37" src="assets/skills/infrastructure.svg" alt="" />
@@ -90,20 +87,14 @@
   Firebase · Node.js · Cloudflare Workers · OpenAI API
 </p>
 
-<br clear="left" />
-
 <p>
   <img align="left" width="20" height="37" src="assets/skills/product-growth.svg" alt="" />
   <strong>Product &amp; growth</strong><br />
   StoreKit 2 · RevenueCat · Stripe · GA4 · BigQuery · Experimentation
 </p>
 
-<br clear="left" />
-
 <p>
   <img align="left" width="20" height="37" src="assets/skills/workflow.svg" alt="" />
   <strong>Engineering workflow</strong><br />
   Python · AI-assisted development · Automated testing · Iterative delivery
 </p>
-
-<br clear="left" />
