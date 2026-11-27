@@ -46,6 +46,16 @@
 
 <br clear="left" />
 
+<p>
+  <a href="https://apps.apple.com/kr/app/%EC%95%8C%EB%A1%9C%EC%95%84-%EC%9B%90%EC%A0%95%EB%8C%80-%EC%88%99%EC%A0%9C-%EA%B2%BD%EB%A7%A4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6752291694"><img align="left" width="80" src="assets/aloa-rounded.png" alt="Aloa app icon" /></a>
+  <strong><a href="https://apps.apple.com/kr/app/%EC%95%8C%EB%A1%9C%EC%95%84-%EC%9B%90%EC%A0%95%EB%8C%80-%EC%88%99%EC%A0%9C-%EA%B2%BD%EB%A7%A4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6752291694">Aloa</a></strong><br />
+  An unofficial Lost Ark companion for character lookups, roster task management, market information, and auction calculations using the official game API.<br />
+  <sub>Flutter · Dart · Firebase · Hive · Lost Ark Open API</sub><br />
+  <sub><a href="https://apps.apple.com/kr/app/%EC%95%8C%EB%A1%9C%EC%95%84-%EC%9B%90%EC%A0%95%EB%8C%80-%EC%88%99%EC%A0%9C-%EA%B2%BD%EB%A7%A4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6752291694">App Store</a> · <a href="https://play.google.com/store/apps/details?id=dev.jeanie.aloa">Google Play</a></sub>
+</p>
+
+<br clear="left" />
+
 ## What I work with
 
 **Native development** · Swift, SwiftUI, AppKit  
