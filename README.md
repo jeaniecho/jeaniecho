@@ -32,7 +32,7 @@ A tiny desktop companion for focus, breaks, and the moments in between. This loc
 
 ---
 
-### Wooparoo Guide
+### [Wooparoo Guide](https://apps.apple.com/kr/app/id6474457167)
 
 An independently built mobile reference app for a collection-based game.
 
