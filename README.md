@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm Jeanie 👋</h1>
-  <p>Product Engineer &amp; Independent App Developer</p>
-  <p>I make apps that are useful, a little playful, and thoughtfully built.</p>
-  <p>Seoul · <a href="https://jeanie.dev">Website</a></p>
+  <h1>Hi, I'm Jeanie.</h1>
+  <p><strong>Product Engineer · Independent App Developer</strong></p>
+  <p>I design, build, and ship apps that are useful, a little playful, and thoughtfully crafted.</p>
+  <p><sub>Based in Seoul · <a href="https://jeanie.dev">jeanie.dev</a></sub></p>
 </div>
 
 ## Things I've built
